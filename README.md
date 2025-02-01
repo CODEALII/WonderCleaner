@@ -1,7 +1,6 @@
 
 **README.md:**
 
-```markdown
 # WonderCleaner 🧹
 
 Welcome to **WonderCleaner** – a modern PC cleaning tool that helps you maintain a fast and efficient system. Built with love using Python 3.13 and PyQt6, WonderCleaner features a unique dual-panel design and a stylish dark mode.
@@ -19,4 +18,4 @@ Welcome to **WonderCleaner** – a modern PC cleaning tool that helps you mainta
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/WonderCleaner.git
+   git clone https://github.com/CODEALII/WonderCleaner.git
