@@ -4,9 +4,9 @@ WonderCleaner is a modern PC cleaning tool designed to help you keep your system
 
 ## Download & Usage 🚀
 
-For the easiest experience, download the standalone executable (EXE) from the [Releases](https://github.com/yourusername/WonderCleaner/releases) page—no need to install Python or build from source.
+For the easiest experience, download the standalone executable (EXE) from the [Releases](https://github.com/CODEALII/WonderCleaner/releases) page—no need to install Python or build from source.
 
-1. Visit the [Releases](https://github.com/yourusername/WonderCleaner/releases) section.
+1. Visit the [Releases](https://github.com/CODEALII/WonderCleaner/releases) section.
 2. Download the `WonderCleaner-v1.0.0.exe` file.
 3. Run the executable to start cleaning your PC!
 
@@ -18,10 +18,3 @@ For the easiest experience, download the standalone executable (EXE) from the [R
   - **Right Panel (70%):** Displays scan results in an organized manner.
 - **Fast File Scanning:** Quickly identifies temporary and unnecessary files.
 - **Selective Deletion:** Remove individual files or clear all unwanted data with a single click.
-
-## Optional: Build from Source 🔧
-
-If you wish to build the project yourself:
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/WonderCleaner.git
